@@ -1,4 +1,4 @@
-package tilepuzzle.model;
+package main.java.tilepuzzle.model;
 
 import java.util.ArrayList;
 import java.util.Arrays;

@@ -1,12 +1,12 @@
-package tilepuzzle;
+package main.java.tilepuzzle;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import tilepuzzle.model.Board;
-import tilepuzzle.model.Direction;
-import tilepuzzle.searchagent.SearchAgent;
-import tilepuzzle.view.ConsoleRenderer;
+import main.java.tilepuzzle.model.Board;
+import main.java.tilepuzzle.model.Direction;
+import main.java.tilepuzzle.searchagent.SearchAgent;
+import main.java.tilepuzzle.view.ConsoleRenderer;
 
 public class Puzzle {
 	private Board board;

@@ -1,4 +1,4 @@
-package tilepuzzletest;
+package test.java.tilepuzzletest;
 
 import static org.junit.Assert.*;
 
@@ -8,9 +8,9 @@ import org.junit.AfterClass;
 import org.junit.BeforeClass;
 import org.junit.Test;
 
-import tilepuzzle.model.Board;
-import tilepuzzle.model.Direction;
-import tilepuzzle.model.Position;
+import main.java.tilepuzzle.model.Board;
+import main.java.tilepuzzle.model.Direction;
+import main.java.tilepuzzle.model.Position;
 
 public class BoardTest {
 	static Board board;

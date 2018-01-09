@@ -1,7 +1,7 @@
-package tilepuzzle.view;
+package main.java.tilepuzzle.view;
 
-import tilepuzzle.model.Board;
-import tilepuzzle.model.Position;
+import main.java.tilepuzzle.model.Board;
+import main.java.tilepuzzle.model.Position;
 
 public class ConsoleRenderer {
 	private Board board;

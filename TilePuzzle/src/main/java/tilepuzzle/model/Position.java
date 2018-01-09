@@ -1,4 +1,4 @@
-package tilepuzzle.model;
+package main.java.tilepuzzle.model;
 
 public class Position {
 	public int x;
